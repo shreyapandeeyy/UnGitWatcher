@@ -3,7 +3,7 @@
 This is a simple react project that i did as part of react practice.  
 **UnGitWatcher** allows you check who is unfollowed you and who you do not follow back
 
-[//]: # (> Demo [here]&#40;https://git-hub-unfollower-tracker.vercel.app/&#41;)
+ (> Demo [here](https://un-git-watcher.vercel.app/))
 
 ## how does it works?
 
