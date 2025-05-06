@@ -17,7 +17,7 @@ export default function Content() {
 				<p>
 					The code for this project is{' '}
 					<a
-						href='https://github.com/CsarGomez/github-unfollow-tracker'
+						href='https://github.com/shreyapandeeyy/UnGitWatcher'
 						target='_blank'
 						rel='noreferrer'
 					>
